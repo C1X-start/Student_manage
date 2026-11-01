@@ -49,7 +49,7 @@ Student-Management-System/
 ### 1. 克隆项目
 
 ```bash
-git clone <https://github.com/C1X-start/Student_manage.git>
+git clone https://github.com/C1X-start/Student_manage.git
 ```
 
 ### 2. 进入项目目录
